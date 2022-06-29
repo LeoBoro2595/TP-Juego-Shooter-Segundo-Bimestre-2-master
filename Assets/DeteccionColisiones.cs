@@ -15,7 +15,7 @@ public class DeteccionColisiones : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     void Update()
@@ -43,5 +43,4 @@ public class DeteccionColisiones : MonoBehaviour
         }
 
     }
-
 }

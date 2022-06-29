@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: d2ce2ebebefffed40b1869e1b3f8bacf
+guid: 26c34fbb8fe75c14aa1e008298ed81c4
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Material
+    2100000: Material.010
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Plane
+    4300000: Pistola
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: ef10cc8138d6d0d48a917ee96ce6568d, type: 2}
+      name: Material.010
+    second: {fileID: 2100000, guid: 9b11ca76a8a1be443b81d4ac6578cbfc, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: lH8yTHvm
-    second: {fileID: 2800000, guid: d438fa0ccb24c8943b5e9e11d70cd2c1, type: 3}
+    second: {fileID: 2800000, guid: 8f3e5fba6ac54984ca7fc7efb881213e, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

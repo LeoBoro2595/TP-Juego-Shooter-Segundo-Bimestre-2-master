@@ -8,6 +8,8 @@ TagManager:
   - enemy
   - Ammo
   - Espada
+  - shield
+  - enemigoMayor
   layers:
   - Default
   - TransparentFX
